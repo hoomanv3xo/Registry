@@ -1,0 +1,5 @@
+# studentID,last,first,address,city,province,postalCode,phone,email
+1000001,Smith,John,12 Elm Street,Toronto,ON,M5V2T6,416-555-0101,jsmith@mail.com
+1000002,Nguyen,Linh,88 Maple Ave,Richmond Hill,ON,L4C3B2,905-555-0144,lnguyen@mail.com
+1000003,Patel,Anika,5 Oak Court,Markham,ON,L3R1A9,647-555-0178,apatel@mail.com
+1000004,Garcia,Mateo,301 King Rd,Vaughan,ON,L4K2P3,289-555-0190,mgarcia@mail.com

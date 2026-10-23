@@ -1,0 +1,5 @@
+# courseID,name,coordinator
+CS101,Intro to Programming,Dr. Adams
+MATH201,Linear Algebra,Dr. Baker
+PHYS110,Mechanics,Dr. Chen
+ENG150,Technical Writing,Dr. Davis
