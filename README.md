@@ -2,7 +2,7 @@
 A small student registry written in Java AWT. It keeps students, courses and the grades students have earned in courses, and lets you browse, search, add and delete them. Data is loaded from plain text files and can be saved back to them.
 
 It started as an applet (`Registry3`) from a university course project. It still runs as an applet, but the recommended way to run it is through `RegistryApp`, which puts the same screen in a normal window and adds a **SAVE** button.
-
+![Screenshot of the app](registry-image.png)
 ## Files
 
 | File | Purpose |
